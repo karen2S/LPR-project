@@ -15,3 +15,4 @@ The proposed license plate recognition system comprises two key components: <br>
 - **License Plate Character Recognition** will be done with YOLOv5, YOLOv7 and YOLOv8 (Accuracy = 36.2% from Vehicle user testing -> 10epoch_car.pt)<br>
 
 We have run in total of 22 models
+Evaluation can be seen at lpr report.xlsx
