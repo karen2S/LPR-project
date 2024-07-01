@@ -15,4 +15,10 @@ The proposed license plate recognition system comprises two key components: <br>
 - **License Plate Character Recognition** will be done with YOLOv5, YOLOv7 and YOLOv8 (Accuracy = 36.2% from Vehicle user testing -> 10epoch_car.pt)<br>
 
 We have run in total of 22 models
+Image can be loaded to google drive and downloaded locally
 Evaluation can be seen at lpr report.xlsx
+
+List of model created can be seen at Deep Learning LPR Model Folder
+and can be run in the Final Product Session at Deep_Learning_Project_LPR.ipynb
+
+Note  : Yolov7 need some adjustment in ../utils/general & datasets,so you can copy related txt

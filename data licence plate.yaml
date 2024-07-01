@@ -1,0 +1,12 @@
+names:
+  - plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: plat-nomor-indo
+  url: https://universe.roboflow.com/easy-apk-trhqj/plat-nomor-indo/dataset/1
+  version: 1
+  workspace: easy-apk-trhqj
+test: ../test/images
+train: /content/merged_dataset/train/images
+val: /content/merged_dataset/valid/images
